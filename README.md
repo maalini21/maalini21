@@ -6,6 +6,7 @@
 -  🗼intersted in NETWORKING
 - ©️ Completed 'C' course
 -  👩‍🎓Mini project "TRANSMISSION LINE SAFETY SYSTEM USING ARDUNO"
+-  
 -💻 CARRIER OBJECTIVES :
 -  A position with a company that offers challenges and opportunities for personal and professional growth
 -  Seeking a challenging career and a position in a company where I can launch my career and develop a valuable skill set
