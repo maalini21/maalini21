@@ -5,6 +5,7 @@
 -  📧reach me @ maalini2002outlook.com
 -  🗼intersted in NETWORKING
 - ©️ Completed 'C' course
+-  HTML ⚡
 -  👩‍🎓Mini project "TRANSMISSION LINE SAFETY SYSTEM USING ARDUNO"
 -  
 -💻 CARRIER OBJECTIVES :
